@@ -10,4 +10,4 @@ Concepts used:
 - Properties
 - Indexers
 
-***NOTE: It's built on top of 2nd project, so that's why the solution name is "SimpleRestraunt2"***
+***NOTE: It's built on top of 2nd project, so that's why the project name is "SimpleRestraunt2"***
